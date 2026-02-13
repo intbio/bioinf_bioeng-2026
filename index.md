@@ -28,7 +28,7 @@ spring semester: 1 credit, 36 academic hours, 11 lectures, 2 (python) + 9 (bioin
 
 
 ### Course calendar
-- Dates:  
+- Dates:  13/02/2026; 20/02/2026; 27/02/2026; 6/03/2026; 13/03/2026; 20/03/2026; 27/03/2026; 3/04/2026; 10/04/2026; 17/04/2026; 24/04/2026;
 
 ### Attendance policy
 - 100% attendance is required
