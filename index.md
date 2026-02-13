@@ -5,7 +5,7 @@
 
 
 ### Contact information
-- Instructor: Elizaveta Bogdanova, PHD, Alexey K. Shaytan, PHD shaytanak@my.msu.ru
+- Instructor: Elizaveta Bogdanova, PHD, Grigoriy Armeev, PHD, Nikita Kosarim, Anna Gribkova, Alexey K. Shaytan, PHD shaytanak@my.msu.ru
 - [Telegram link]()
 - [Home work folder]()
 - [Bioeng distant link]()
