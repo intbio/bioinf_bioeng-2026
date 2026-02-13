@@ -2,33 +2,82 @@
 
 # [http://intbio.org/bioinf_bioeng-2026](http://intbio.org/bioinf_bioeng-2026)
 # Веб-сайт курса биоинформатики для 3 курса студентов кафедры биоинженерии в 2026 году 
-## Программа курса
-- [Предварительная программа курса](progr.md)
-- [Список вопросов к зачёту в весеннем семестре](190417_questions2test.txt)
-- [Список предварительных оценок за курс (обновлено 19 апр.)](190419_preliminary_scores.txt)
-- [Расписание встреч для получения оценки или сдачи зачёта](190422_schedule.txt)
 
-## Лекторы
-- д.б.н. профессор [Коротков Евгений Вадимович](https://www.fbras.ru/about/nauchnye-podrazdeleniya/gruppa-matematicheskogo-analiza-posledovatelnostej-dnk-i-belkov)
-- к.ф.-м.н. Армеев Григорий Алексеевич
-- к.б.н. Герасимов Евгений Сергеевич
-- к.ф.-м.н. Новоселецкий Валерий Николаевич
-- к.ф.-м.н. [Шайтан Алексей Константинович](http://intbio.org/ashaytan)
 
-## Связь с преподавателями
-По email: [bioinf2018@googlegroups.com](mailto:bioinf2018@googlegroups.com)
+### Contact information
+- Instructor: Elizaveta Bogdanova, PHD, Alexey K. Shaytan, PHD shaytanak@my.msu.ru
+- [Telegram link]()
+- [Home work folder]()
+- [Bioeng distant link]()
 
-## Учет успеваемости и отчетность
-- Итоговая аттестация по курсу: зачет с оценкой 
+### Meetings and Location
+- Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542
+- Lectures: Friday 15:35-17:10
 
-## Рекомендованная литература
-- [Артур Леск. Введение в биоинформатику](http://window.edu.ru/resource/316/65316/files/Lesk_978-5-94774-501-6/1-2-3_cB501-6.pdf)
-- [Стефанов В.Е., Тулуб А.А., Мавропуло-Столяренко Г.Р. Биоинформатика](https://biblio-online.ru/book/A55F2449-49BA-49BA-A743-2E6EAF536116)
-- [Лукашов В.В. Молекулярная эволюция и филогенетический анализ](http://molbiol.ru/forums/index.php?showtopic=361358)
-- [Дурбин Р., Эдди Ш., Крог А., Митчисон Г., Анализ биологических последовательностей](https://www.ozon.ru/context/detail/id/3146425/)
-- [Финкельштейн А.В., Птицын О.Б. Физика белка](http://www.mol.bio.msu.ru/res/DOC61/2012_Book_fizika_belka.pdf)
-- [Ханс-Дитер Хёльтье (ред.). Молекулярное моделирование. Теория и практика](http://avidreaders.ru/book/molekulyarnoe-modelirovanie-teoriya-i-praktika.html)
-- [Даниэль Джон Ригден (ред.) Структура и функционирование белков. Применение методов биоинформатики](https://dic.academic.ru/book.nsf/63295576/Структура+и+функционирование+белков.+Применение+методов+биоинформатики.+Под+руководством+Даниэля+Джона+Ригдена)
+
+### Credits
+fall semester: 2 credit, 72 academic hours,  informatics + python
+spring semester: 1 credit, 36 academic hours, 11 lectures, 2 (python) + 9 (bioinformatics)
+
+### Описание курса
+
+
+### Textbooks and learning resources (to be updated)
+
+### Required resources
+
+
+### Course calendar
+- Dates:  
+
+### Attendance policy
+- 100% attendance is required
+- For every missed lecture a paper no less than 1500 words is required explaining the lecture contents.
+- For every missed seminar a written protocol or a screen cast showing that the student has succesfully done all hands-on excercises is required. 
+
+### Assignments policy
+- Assignments are due in two weeks.
+- Assignments should be uploaded via [this link](https://www.dropbox.com/request/qaKsB7oTLczzHHnyzOAy) in one file (doc, pdf, zip). The name of the file is as follows: Asgmt_Number_Surname_Initials. E.g. Asgmt_2_Petrov_AV.pdf
+- Assignments are graded on a 100 point scale
+- Late policy: 10 points are deducted for each week the assignment is late. 
+
+### Course program (in Russian)
+## Занятие 1. Вводная лекция. Биоинформатика цели и задачи, история. Базы данных. Форматы данных. (А.К. Шайтан)
+Основные форматы данных в базах данных. FASTA, GB и т.д. Методы поиска.
+
+
+## Занятие 2. Базы данных - практическое применение. Поиск по БД. Загрузка из БД. (Е.А. Богданова)
+Принципиальные моменты. Как можно искать и выгружать данные. Как это автомитизировать.
+PubMed - поиск.
+GeneBank, RefSeq - последовательности. Струкутра данных.
+Blast
+Аннотации последовательностей.
+Геномы. Хромосомы - склеены из файлов GeneBank. Иерархия данных.
+
+## Занятие 3. Алгоритмы выравнивания. Практика. (Е.А. Богданова)
+Разные алгортимы и типы выравниваний. HMM,
+
+## Занятие 4. Филогенетика.  (Е.А. Богданова)
+
+## Занятие 5. Геномные браузеры. Работа с геномами. (А.К. Шайтан)
+Связака баз данных - dbSNP, ClinVar. Аннотация геномов.
+Поиск клинически значимых вариантов в геноме конкретного человека.
+
+## Занятие 6. GEO, транскриптомика, и эпигеномика. (А.К. Грибкова?)
+Геномные браузеры и визуализация там различных данных.
+
+## Занятие 7. Структурная биоинформатика. Форматы данных. Базы. Базы доменов. Поиск. (Г.А. Армеев)
+PFAM, Interpro.
+
+## Занятие 8. Визуализация и сравнение структур. Возьми (Н.А. Косарим + Г.А. Армеев)
+FoldSeek и струкутрный поиск (поискать Альбебетин в живых организмах)
+
+## Занятие 9. AlphaFold и предсказание структур. (Г.А. Армеев)
+
+
+
+
+## Материалы лекций общефакультетского курса по биоинформатике ------ 
 
 ## Осенний семестр
 ### Вводный опросник (должен быть выполнен к 12 октября)
