@@ -1,7 +1,7 @@
 <a href="https://github.com/intbio/bioinf2018-2019/blob/master/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
 
-# [http://intbio.org/bioinf2018-2019](http://intbio.org/bioinf2018-2019)
-# Веб-сайт курса биоинформатики для 2 курса Биофака в 2018/2019 учебном году
+# [http://intbio.org/bioinf2018-2019](http://intbio.org/bioinf_bioeng-2026)
+# Веб-сайт курса биоинформатики для 3 курса студентов кафедры биоинженерии в 2026 году 
 ## Программа курса
 - [Предварительная программа курса](progr.md)
 - [Список вопросов к зачёту в весеннем семестре](190417_questions2test.txt)
